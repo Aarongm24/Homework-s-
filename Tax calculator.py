@@ -15,6 +15,6 @@ def calc(income):
 		print("30%")
 	else:
 		print(income * 0.32)
-		print("45%")
+		print("35%")
     
 calc(income)
